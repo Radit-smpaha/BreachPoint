@@ -1,0 +1,2 @@
+[pageerror] NotAllowedError: A user gesture is required to request Pointer Lock.
+[fight] {"hp":100,"armor":100,"kills":0,"lastShotDebug":{"miss":true,"t":19,"dir":[0,0.01,-1]},"shotsByEnemy":0}

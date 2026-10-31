@@ -1,0 +1,87 @@
+{
+  "id": "ak",
+  "name": "AK-12 ASSAULT RIFLE",
+  "category": "Assault Rifle",
+  "model": {
+    "type": "Group",
+    "children": [
+      {
+        "type": "Mesh",
+        "name": "receiver",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.085, "height": 0.110, "depth": 0.45}},
+        "material": "body",
+        "position": {"x": 0, "y": 0.010, "z": -0.10}
+      },
+      {
+        "type": "Mesh",
+        "name": "top-cover",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.025, "depth": 0.38}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.065, "z": -0.05}
+      },
+      {
+        "type": "Mesh",
+        "name": "barrel",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.032, "radiusBottom": 0.032, "height": 0.55, "radialSegments": 12}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.020, "z": -0.55},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "handguard",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.068, "height": 0.068, "depth": 0.35}},
+        "material": "poly",
+        "position": {"x": 0, "y": 0.015, "z": -0.20}
+      },
+      {
+        "type": "Mesh",
+        "name": "stock",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.055, "height": 0.150, "depth": 0.20}},
+        "material": "poly",
+        "position": {"x": 0, "y": -0.050, "z": 0.25}
+      },
+      {
+        "type": "Mesh",
+        "name": "pistol-grip",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.045, "height": 0.120, "depth": 0.15}},
+        "material": "poly",
+        "position": {"x": 0.020, "y": -0.050, "z": 0.02}
+      },
+      {
+        "type": "Mesh",
+        "name": "magazine",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.050, "height": 0.180, "depth": 0.09}},
+        "material": "metal",
+        "position": {"x": 0, "y": -0.160, "z": -0.30}
+      },
+      {
+        "type": "Mesh",
+        "name": "front-sight-post",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.012, "radiusBottom": 0.012, "height": 0.06, "radialSegments": 8}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.080, "z": -0.58},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "selector-lever",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.015, "height": 0.080, "depth": 0.025}},
+        "material": "metal",
+        "position": {"x": -0.030, "y": 0.020, "z": -0.15}
+      },
+      {
+        "type": "Mesh",
+        "name": "ejector-port",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.020, "height": 0.015, "depth": 0.010}},
+        "material": "metal",
+        "position": {"x": 0.040, "y": 0.020, "z": -0.50}
+      }
+    ]
+  },
+  "materials": {
+    "body": {"color": 0x4a5058, "roughness": 0.5, "metalness": 0.45},
+    "metal": {"color": 0x7c838c, "roughness": 0.35, "metalness": 0.7},
+    "poly": {"color": 0x55574c, "roughness": 0.8, "metalness": 0.1}
+  }
+}

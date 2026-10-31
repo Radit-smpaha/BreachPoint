@@ -1,0 +1,1356 @@
+[http 404] http://localhost:8087/favicon.ico
+[error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[qa] ready flag set
+[error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[http 404] http://localhost:8087/favicon.ico
+[qa] deploying…
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[qa] mission started
+[pageerror] NotAllowedError: A user gesture is required to request Pointer Lock.
+DOMException: NotAllowedError: A user gesture is required to request Pointer Lock.
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'cellToWorld')
+TypeError: Cannot read properties of undefined (reading 'cellToWorld')
+    at pickPatrolPoint (http://localhost:8087/js/ai.js:415:37)
+    at thinkAI (http://localhost:8087/js/ai.js:291:75)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[state] {"mode":"game","fps":"7 FPS","enemies":9,"objectives":2,"playerPos":[-4,0,24],"onGround":true,"colliders":5871,"navWalk":4073,"gun":"m4","mag":30,"rendererInfo":{"frame":133,"calls":187,"triangles":30288,"points":500,"lines":0},"viewmodel":"loaded","enemiesSees":0,"enemyStates":["patrol"],"enemyPos":[[-22.6,0,-13.4],[21.1,0.1,-35.2],[30.3,0,9.6]],"camera":[-4,1.67,24]}
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at shoot (http://localhost:8087/js/main.js:403:102)
+    at guns.onFire (http://localhost:8087/js/main.js:326:51)
+    at tryFire (http://localhost:8087/js/weapons.js:230:25)
+    at updateGame (http://localhost:8087/js/main.js:713:31)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] Cannot read properties of undefined (reading 'findPath')
+TypeError: Cannot read properties of undefined (reading 'findPath')
+    at setPathTo (http://localhost:8087/js/ai.js:124:19)
+    at thinkAI (http://localhost:8087/js/ai.js:295:16)
+    at update (http://localhost:8087/js/ai.js:529:10)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)
+[pageerror] this.game.losBlocked is not a function
+TypeError: this.game.losBlocked is not a function
+    at canSee (http://localhost:8087/js/ai.js:81:23)
+    at perceive (http://localhost:8087/js/ai.js:90:16)
+    at update (http://localhost:8087/js/ai.js:526:52)
+    at updateGame (http://localhost:8087/js/main.js:734:23)
+    at loop (http://localhost:8087/js/main.js:646:36)

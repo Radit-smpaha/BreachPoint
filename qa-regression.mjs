@@ -1,0 +1,38 @@
+import assert from 'node:assert/strict';
+import { GunSystem, WEAPONS } from './js/weapons.js';
+import { Colliders, rayBox } from './js/world.js';
+
+const audioEvents = [];
+const guns = new GunSystem({ reload: end => audioEvents.push(end), dryFire() { } });
+guns.reset();
+assert.equal(guns.def.id, 'm4');
+assert.ok(guns.tryFire(10, true));
+const oldAmmo = guns.cur;
+guns.reset();
+assert.notEqual(guns.cur, oldAmmo, 'restart must bind the new ammo object');
+assert.equal(guns.cur.mag, WEAPONS.m4.mag);
+assert.equal(guns.cooldown, 0);
+guns.loadout.primary = 'ak';
+guns.equipSlot(0, true);
+assert.equal(guns.def.id, 'ak', 'replacing an equipped primary must change weapon');
+guns.tryFire(20, true);
+guns.startReload();
+guns.update(0.6, 20.6);
+assert.deepEqual(audioEvents, [false, true]);
+guns.update(3, 23.6);
+assert.equal(guns.cur.mag, WEAPONS.ak.mag);
+assert.equal(guns.cur.reserve, WEAPONS.ak.reserve - 1);
+assert.equal(guns.reloading, false);
+
+const box = { minX: 0, minY: 0, minZ: 0, maxX: 1, maxY: 1, maxZ: 1 };
+assert.equal(rayBox({ x: -2, y: 0.5, z: 0.5 }, { x: 1, y: 0, z: 0 }, box, 10), 2);
+assert.equal(rayBox({ x: -2, y: 2, z: 0.5 }, { x: 1, y: 0, z: 0 }, box, 10), null);
+assert.equal(rayBox({ x: 0.5, y: 0.5, z: 0.5 }, { x: 0, y: 1, z: 0 }, box, 10), 0);
+const colliders = new Colliders();
+colliders.boxes.push(box); colliders.build();
+assert.equal(colliders.query(-1, -1, 2, 2).length, 1);
+colliders.boxes.push({ ...box, minX: 5, maxX: 6 }); colliders.build();
+assert.equal(colliders.query(4, -1, 7, 2).length, 1);
+assert.equal(colliders.query(4, -1, 7, 2).length, 1, 'new colliders must be deduplicated after rebuild');
+assert.equal(colliders.raycastBoxes({ x: 4, y: 0.5, z: 0.5 }, { x: 1, y: 0, z: 0 }, 10).t, 1);
+console.log('PASS: weapon restart, equipment replacement, reload timing/ammo, raycasts, and collider rebuilds');

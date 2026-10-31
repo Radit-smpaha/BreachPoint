@@ -1,0 +1,7 @@
+[pageerror] NotAllowedError: A user gesture is required to request Pointer Lock. @ 
+[vm] {"rot":[-0.13,-0.11,0],"muzzleDirInCamSpace":[0.11,-0.13,-0.99],"holderPos":[0.15,-0.21,-0.42],"modelScale":0.98}
+[soldier] {"parts":["torso","head","armL","armR","legL","legR","rifle","muzzle","restPose"],"torsoWorld":[5.02,2.06,-35.22],"rootScale":1,"rifleVisible":true,"pos":[5.02,0.08,-35.22],"player":[-0.73,3.6,-40.97]}
+[rays] {"chest":{"world":{"t":11.96,"point":[6.88,0,-33.37]},"distToEye":9.05},"head":{"world":{"t":13.11,"point":[7.77,0,-32.48]},"distToEye":8.88},"eye":[-0.73,5.26,-40.97]}
+[damage] {"hp":-4,"dead":true,"dbg":{"dist":8.6,"head":false,"dmg":26,"hpBefore":22},"stats":{"kills":2,"heads":0,"shots":4,"hits":4,"acc":1,"score":200}}
+[enemy shoots] {"hp":100,"armor":100,"alive":true,"lastShot":0,"state":"engage","sees":true,"burstT":0,"mag":30,"reaction":0.009828375805662287}
+[soldier bounds] {"worldMinY":4.08,"worldMaxY":6.04,"feetY":3.6,"meshes":17,"scale":1.0293724439642948,"modelPos":[0,0.48,0],"combat":{"reactionT":0.009828375805662287,"tuckT":9,"sees":true,"cover":false,"burstT":0,"stateT":0.9178000000044707}}

@@ -1,0 +1,147 @@
+{
+  "id": "rifle",
+  "name": "M4A1 ASSAULT RIFLE",
+  "category": "Assault Rifle",
+  "model": {
+    "type": "Group",
+    "children": [
+      {
+        "type": "Mesh",
+        "name": "receiver",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.080, "height": 0.088, "depth": 0.46}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.012, "z": -0.16}
+      },
+      {
+        "type": "Mesh",
+        "name": "bolt",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.084, "height": 0.020, "depth": 0.022}},
+        "material": "metal",
+        "position": {"x": 0.064, "y": 0.022, "z": -0.06}
+      },
+      {
+        "type": "Mesh",
+        "name": "barrel-1",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.018, "radiusBottom": 0.018, "height": 0.66, "radialSegments": 12}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.014, "z": -0.90},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "barrel-2",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.030, "radiusBottom": 0.028, "height": 0.11, "radialSegments": 12}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.014, "z": -1.36},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "muzzle-brake",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.032, "height": 0.032, "depth": 0.02}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.018, "z": -1.44}
+      },
+      {
+        "type": "Mesh",
+        "name": "stock-1",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.084, "height": 0.092, "depth": 0.42}},
+        "material": "wood",
+        "position": {"x": 0, "y": -0.016, "z": 0.31}
+      },
+      {
+        "type": "Mesh",
+        "name": "stock-2",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.074, "height": 0.130, "depth": 0.084}},
+        "material": "wood",
+        "position": {"x": 0, "y": -0.108, "z": 0.31}
+      },
+      {
+        "type": "Mesh",
+        "name": "stock-3",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.070, "height": 0.012, "depth": 0.26}},
+        "material": "wood",
+        "position": {"x": 0, "y": -0.072, "z": 0.46}
+      },
+      {
+        "type": "Mesh",
+        "name": "cheek-rest",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.060, "height": 0.040, "depth": 0.12}},
+        "material": "wood",
+        "position": {"x": 0, "y": -0.085, "z": 0.34}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-1",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.050, "radiusBottom": 0.050, "height": 0.50, "radialSegments": 18}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.124, "z": -0.20},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-2",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.058, "radiusBottom": 0.058, "height": 0.08, "radialSegments": 18}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.124, "z": -0.48},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-3",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.058, "radiusBottom": 0.058, "height": 0.08, "radialSegments": 18}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.124, "z": 0.08},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-lens",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.040, "radiusBottom": 0.040, "height": 0.014, "radialSegments": 18}},
+        "material": "lens",
+        "position": {"x": 0, "y": 0.124, "z": -0.52},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-rings-1",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.034, "height": 0.058, "depth": 0.07}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.082, "z": -0.26}
+      },
+      {
+        "type": "Mesh",
+        "name": "scope-rings-2",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.034, "height": 0.058, "depth": 0.07}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.082, "z": 0.04}
+      },
+      {
+        "type": "Mesh",
+        "name": "magazine",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.054, "height": 0.140, "depth": 0.084}},
+        "material": "poly",
+        "position": {"x": 0, "y": -0.122, "z": -0.04}
+      },
+      {
+        "type": "Mesh",
+        "name": "trigger-guard",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.018, "height": 0.016, "depth": 0.10}},
+        "material": "metal",
+        "position": {"x": 0, "y": -0.080, "z": -0.05}
+      },
+      {
+        "type": "Mesh",
+        "name": "bolt-release",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.010, "height": 0.018, "depth": 0.014}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.046, "z": -0.12}
+      }
+    ]
+  },
+  "materials": {
+    "metal": {"color": 0x7c838c, "roughness": 0.35, "metalness": 0.7},
+    "wood": {"color": 0x8a5a33, "roughness": 0.7, "metalness": 0.03},
+    "lens": {"color": 0x2b3d4d, "roughness": 0.1, "metalness": 0.9}
+  }
+}

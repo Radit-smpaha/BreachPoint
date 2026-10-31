@@ -1,0 +1,151 @@
+{
+  "id": "pistol",
+  "name": "P226 SIDEARM",
+  "category": "Sidearm",
+  "model": {
+    "type": "Group",
+    "children": [
+      {
+        "type": "Mesh",
+        "name": "slide",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.082, "height": 0.072, "depth": 0.32}},
+        "material": "body",
+        "position": {"x": 0, "y": 0.030, "z": -0.05}
+      },
+      {
+        "type": "Mesh",
+        "name": "slide-frame",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.086, "height": 0.012, "depth": 0.28}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.068, "z": -0.04}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-serration-1",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.028, "depth": 0.009}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.044, "z": -0.20}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-serration-2",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.028, "depth": 0.009}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.044, "z": -0.16}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-serration-3",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.028, "depth": 0.009}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.044, "z": -0.12}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-serration-4",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.028, "depth": 0.009}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.044, "z": -0.08}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-serration-5",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.088, "height": 0.028, "depth": 0.009}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.044, "z": -0.04}
+      },
+      {
+        "type": "Mesh",
+        "name": "front-sertration",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.086, "height": 0.022, "depth": 0.014}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.036, "z": -0.235}
+      },
+      {
+        "type": "Mesh",
+        "name": "frame",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.072, "height": 0.140, "depth": 0.22}},
+        "material": "poly",
+        "position": {"x": 0, "y": -0.012, "z": 0.06}
+      },
+      {
+        "type": "Mesh",
+        "name": "grip-panel-1",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.068, "height": 0.118, "depth": 0.10}},
+        "material": "poly",
+        "position": {"x": 0, "y": -0.098, "z": 0.11}
+      },
+      {
+        "type": "Mesh",
+        "name": "grip-panel-2",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.064, "height": 0.008, "depth": 0.092}},
+        "material": "poly",
+        "position": {"x": 0, "y": -0.154, "z": 0.11}
+      },
+      {
+        "type": "Mesh",
+        "name": "barrel-bushing-1",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.019, "radiusBottom": 0.019, "height": 0.15, "radialSegments": 12}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.024, "z": -0.22},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "barrel-bushing-2",
+        "geometry": {"type": "CylinderGeometry", "parameters": {"radiusTop": 0.023, "radiusBottom": 0.023, "height": 0.035, "radialSegments": 12}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.024, "z": -0.32},
+        "rotation": {"x": 1.5708}
+      },
+      {
+        "type": "Mesh",
+        "name": "front-sight",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.014, "height": 0.026, "depth": 0.012}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.090, "z": -0.27}
+      },
+      {
+        "type": "Mesh",
+        "name": "rear-sight",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.034, "height": 0.020, "depth": 0.010}},
+        "material": "metal",
+        "position": {"x": 0, "y": 0.090, "z": 0.06}
+      },
+      {
+        "type": "Mesh",
+        "name": "trigger-guard",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.016, "height": 0.014, "depth": 0.10}},
+        "material": "metal",
+        "position": {"x": 0, "y": -0.076, "z": -0.02}
+      },
+      {
+        "type": "Mesh",
+        "name": "trigger",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.008, "height": 0.020, "depth": 0.018}},
+        "material": "metal",
+        "position": {"x": 0.008, "y": -0.096, "z": -0.08}
+      },
+      {
+        "type": "Mesh",
+        "name": "mag-baseplate",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.070, "height": 0.012, "depth": 0.11}},
+        "material": "metal",
+        "position": {"x": 0, "y": -0.160, "z": 0.11}
+      },
+      {
+        "type": "Mesh",
+        "name": "mag-floorplate",
+        "geometry": {"type": "BoxGeometry", "parameters": {"width": 0.066, "height": 0.020, "depth": 0.090}},
+        "material": "metal",
+        "position": {"x": 0, "y": -0.168, "z": 0.11}
+      }
+    ]
+  },
+  "materials": {
+    "body": {"color": 0x4a5058, "roughness": 0.5, "metalness": 0.45},
+    "metal": {"color": 0x7c838c, "roughness": 0.35, "metalness": 0.7},
+    "poly": {"color": 0x55574c, "roughness": 0.8, "metalness": 0.1},
+    "wood": {"color": 0x8a5a33, "roughness": 0.7, "metalness": 0.03}
+  }
+}

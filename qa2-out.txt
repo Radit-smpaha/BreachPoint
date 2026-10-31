@@ -1,0 +1,9 @@
+[console] Failed to load resource: the server responded with a status of 404 (Not Found)
+[console] Failed to load resource: the server responded with a status of 404 (Not Found)
+[pageerror] NotAllowedError: A user gesture is required to request Pointer Lock. @ 
+[qa] in game
+[viewmodel] {"current":"yes","parentType":"PerspectiveCamera","camChildren":1,"holderLocalPos":[0.155,-0.208,-0.42],"visible":true,"meshes":17,"ads":0}
+[setup] {"enemy":[-9.8,0,-25.9],"player":[-1.9,-26],"state":"patrol","hp":100,"hasLOS":true}
+[after 2.5s] {"hp":100,"alive":true,"enemyStates":["investigate*","investigate*","investigate*","investigate*","investigate*","investigate*","investigate*","investigate*","investigate*"],"paths":[2,3,0,6,5,4,0,3,7],"covers":[false,false,false,false,false,false,false,false,false],"notes":[],"moving":[3.8,3.8,0,3.8,3.8,3.8,0,3.8,3.8]}
+[after firing] {"stats":{"kills":0,"heads":0,"shots":2,"hits":2,"acc":1,"score":0},"mag":28,"enemyHp":["48","100","100","100","100","100","100","100","100"],"feed":[]}
+[after 6s] {"hp":100,"alive":true,"mode":"game","states":["investigate/assault:0","investigate/assault:14","investigate/assault:36","investigate/assault:16","investigate/assault:63","investigate/assault:42","investigate/assault:26","investigate/assault:35","investigate/assault:34"]}
